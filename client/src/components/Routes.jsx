@@ -38,4 +38,5 @@ function Routes ({user, setUser}) {
     </Switch>
   );
 }
+
 export default Routes;
